@@ -1,0 +1,6 @@
+{
+  "name": "Future Generation Academy - Kigali",
+  "description": "Enterprise-level school management system and digital campus command centre for Future Generation Academy, Kigali, Rwanda.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
